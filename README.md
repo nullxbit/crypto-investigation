@@ -1,11 +1,10 @@
----
+
 
 # CryptoLabs
 
 **AI-Powered Advanced Blockchain Intelligence & Investigation**
 *Effortless Blockchain Intelligence*
 
----
 
 ## Overview
 
@@ -85,31 +84,15 @@ Built by **Team DarkFriday**, CryptoLabs provides **real-time monitoring, AI-ass
 
 ---
 
-## 📦 Installation & Setup
-
-*(Coming Soon – currently internal only)*
-CryptoLabs is under private development. If you are an agency, partner, or collaborator, please contact **Team DarkFriday** for access.
-
----
-
-## 🤝 Contributing
+## Contributing
 
 CryptoLabs is currently in closed beta. External contributions are not open yet, but we plan to open selected modules (e.g., visualization, API wrappers) for the community.
 
 ---
 
-## 🧭 Vision
+## Vision
 
 At DarkFriday, we believe **blockchain intelligence should empower the good guys**. With CryptoLabs, our goal is to create a **next-gen, AI-first investigation suite** that bridges law enforcement, financial institutions, and enterprises in the fight against illicit crypto activities.
-
----
-
-## 📬 Contact
-
-**Team DarkFriday – CryptoLabs**
-
-* Shashank Pandey: [shashank@darkfriday.in](mailto:shashank@darkfriday.in) | +91 7004308093
-* Karan Ray: [karan@darkfriday.in](mailto:karan@darkfriday.in)
 
 ---
 
