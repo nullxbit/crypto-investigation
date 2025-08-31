@@ -86,7 +86,7 @@ Built by **Team DarkFriday**, CryptoLabs provides **real-time monitoring, AI-ass
 
 ## Contributing
 
-CryptoLabs is currently in closed beta. External contributions are not open yet, but we plan to open selected modules (e.g., visualization, API wrappers) for the community.
+CryptoLabs is currently in closed beta.
 
 ---
 
