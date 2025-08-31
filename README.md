@@ -96,6 +96,15 @@ At DarkFriday, we believe **blockchain intelligence should empower the good guys
 
 ---
 
+## Contact
+
+**Team DarkFriday – CryptoLabs**
+
+* Shashank Pandey: [shashank@darkfriday.in](mailto:shashank@darkfriday.in) | +91 7004308093
+* Karan Ray: [karan@darkfriday.in](mailto:karan@darkfriday.in)
+
+---
+
 🔥 *CryptoLabs isn’t just a tool—it’s the future of blockchain intelligence.*
 
 ---
